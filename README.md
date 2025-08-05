@@ -1,3 +1,3 @@
 # New Project
 
-This project was created by Chetan Aavarkar
+This project was created by Chetan Aavarkar.
